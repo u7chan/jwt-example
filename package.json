@@ -1,0 +1,13 @@
+{
+  "name": "jwt-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "18.16.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
